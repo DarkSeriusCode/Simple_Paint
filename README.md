@@ -7,6 +7,7 @@ Warning! This repository only for Windows!
 Code:
 1. Start install.py
 2. Write to console: python Paint.py
-Exe:
+
+#Exe:
 1. Download paint.exe
 2. Start paint.exe
